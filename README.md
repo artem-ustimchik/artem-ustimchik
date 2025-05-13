@@ -1,5 +1,10 @@
 ### Добро пожаловать и привет! 👋
 Меня зовут Артем. С 2011 года я занимаюсь обеспечением качества на разных проекта. А так же автоматизацие тестирование на Java.</br>
+
+⚡ +79513757855
+@ artem.ustimchik@gmail.com
+💬 <a target="_blank" href="https://t.me/ustim_qa">t.me/ustim_qa</a>
+
 <!--
 **artem-ustimchik/artem-ustimchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -76,7 +81,3 @@ Here are some ideas to get you started:
 - [x] Описание модели получаемых данных с помощью библиотеки Lombok
 - [x] Лямбда-подход для описания Allure Step
 - [x] Шаблоны форматирования логов запросов
-
-
-</br></br>
-💬 <a target="_blank" href="https://t.me/ustim_qa">t.me/ustim_qa</a>
