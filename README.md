@@ -1,5 +1,5 @@
-## Hi there 👋
-
+### Добро пожаловать и привет! 👋
+Меня зовут Артем. С 2011 года я занимаюсь обеспечением качества на разных проекта. А так же автоматизацие тестирование на Java.</br>
 <!--
 **artem-ustimchik/artem-ustimchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Образование:
+<table width="100%" border='0'>
+   <tr> 
+    <td width="30%" valign="bottom"><img src="/images/sibgiu.webp"></td><td valign="middle">Сибирский государственный индустриальный университет.</br>Факультет: информатика в управлении.</br>Специальность: прикладная информатика в управлении.</td></tr>
+   </tr>
+  </table>
+  </br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem-ustimchik)](https://github.com/artem-ustimchik/github-readme-stats)
+
+## Опыт работы:
+- ![This is an image](/images/fis.png) :link: <a target="_blank" href="https://fisgroup.ru">fisgroup.ru</a></br></br> Тестировщик банковского ПО (Декабрь 2011 - Июнь 2012)
+  - :triangular_flag_on_post: Обязанности:
+    - Тестирование нового функционала, от разработчиков. 
+    - Разбор инцидентов от пользователей.
+    - Работа с БКИ.
+    - Проведение регрессионного тестирования.
+    - Разработка тест-кейсов в TestRail.
+    - Работа с программой контроля версий SVN.
+    - Работа с базой данных SQL.
+    - Планирование и раннее тестирование задач.
+  
+  - 
+## Тестирование UI
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
+:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.</br></br>
+:triangular_flag_on_post: Что особенного:
+
+- [x] Page Object
+- [x] Параметризованная сборка
+- [x] owner.config
+- [x] Интеграция с Jira
+- [x] Тестпланы авто- и ручного тестирования
+- [x] Задачи на дефекты
+
+
+## Тестирование REST API
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
+:heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на сайте https://openlibrary.org/.</br></br>
+:triangular_flag_on_post: Что особенного:
+
+- [x] Описание модели получаемых данных с помощью библиотеки Lombok
+- [x] Лямбда-подход для описания Allure Step
+- [x] Шаблоны форматирования логов запросов
+
+
+</br></br>
+💬 <a target="_blank" href="https://t.me/ustim_qa">t.me/ustim_qa</a>
