@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - [x] Работа с базой данных SQL.
 - [x] Планирование и раннее тестирование задач.
 
-### :link: <a target="_blank" href="https://mactelabs.com/">Macte</a></br></br> Тестировщик ПО (Июнь 2012 - Апрель 2016)
+### :link: <a target="_blank" href="https://mactelabs.com">Macte</a></br></br> Тестировщик ПО (Июнь 2012 - Апрель 2016)
   
 ![This is an image](/icons/TestLink.png)![This is an image](/icons/Jira.png)![This is an image](/icons/Postman.png)</br></br>
 :triangular_flag_on_post: Обязанности:
@@ -59,6 +59,30 @@ Here are some ideas to get you started:
 - [x] Подготовка отчетов о тестировании.
 - [x] Тестирование мобильных приложений на iPhone и iPad.
 - [x] Руководил группой тестировщиков из 3 человек. (Планирование задач, составление отчета о проделанной работе, встречи 1 на 1, собеседования.)
+
+### :link: <a target="_blank" href="https://pozvonim.com">Pozvonim</a></br></br> Middle QA Engineer (Июнь 2016 - Май 2017)
+
+![This is an image](/icons/TestRail.png)![This is an image](/icons/Jira.png)![This is an image](/icons/Postman.png)![This is an image](/icons/Jenkins.png)</br></br>
+:triangular_flag_on_post: Обязанности:
+
+- [x] Ручное тестирование ПО(UI тестирование, регресс тестирование, функциональное тестирование, модульное тестирование, интеграционное тестирование).
+- [x] Построение процесса тестирования, внутри компании.
+- [x] Бекенд тестирование через Postman.
+- [x] Написание тестовой документации, разработка тест кейсов в TestRail.
+- [x] Подготовка отчетов о тестировании.
+
+### :link: <a target="_blank" href="https://www.dreampayments.com">Dream payments</a></br></br> Automation QA Engineer (Июль 2017 - Октябрь 2018)
+
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/Jira.png)![This is an image](/icons/Ibm.png)</br></br>
+:triangular_flag_on_post: Обязанности:
+
+- [x] Разработка автоматизированных тестов на языке Java для тестирование API.
+- [x] Создание и поддержка jobs для CI Jenkins, с использованием pipeline.
+- [x] Развертывание тестовых сред с помощью облачных технологий от IBM.
+- [x] Установка Jenkins, Artifactory, Git, WAS для тестовых сред с помощью Docker.
+- [x] Работа с WebSphere от IBM.
+- [x] Создание тестовой документации в Wiki.
+- [x] Работа с базами данных DB2.
 
 ## Тестирование UI
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
