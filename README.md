@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem-ustimchik)](https://github.com/artem-ustimchik/github-readme-stats)
 
 ## Опыт работы:
-- ![This is an image](/images/fis.png) :link: <a target="_blank" href="https://fisgroup.ru">fisgroup.ru</a></br></br> Тестировщик банковского ПО (Декабрь 2011 - Июнь 2012)
+- :link: <a target="_blank" href="https://fisgroup.ru">FIS</a></br></br> Тестировщик банковского ПО (Декабрь 2011 - Июнь 2012)
+  ![This is an image](/icons/TestRail.png)![This is an image](/icons/Jira.png)</br></br>
   - :triangular_flag_on_post: Обязанности:
     - Тестирование нового функционала, от разработчиков. 
     - Разбор инцидентов от пользователей.
@@ -36,8 +37,19 @@ Here are some ideas to get you started:
     - Работа с программой контроля версий SVN.
     - Работа с базой данных SQL.
     - Планирование и раннее тестирование задач.
-  
-  - 
+
+- :link: <a target="_blank" href="https://mactelabs.com/">Macte</a></br></br> Тестировщик ПО (Июнь 2012 - Апрель 2016)
+  ![This is an image](/icons/Testlink.png)![This is an image](/icons/Jira.png)![This is an image](/icons/Postman.png)</br></br>
+  - :triangular_flag_on_post: Обязанности:
+    - Тестирование ПО(UI тестирование, регресс тестирование, функциональное тестирование).
+    - Тестирование браузерных расширений, для разных бизнес решений.
+    - Тестирование UI админ панели для отслеживания статистики установок и активных пользователей.
+    - Бекенд тестирование через Postman.
+    - Написание тестовой документации, разработка тест кейсов в TestLink.
+    - Подготовка отчетов о тестировании.
+    - Тестирование мобильных приложений на iPhone и iPad.
+    - Руководил группой тестировщиков из 3 человек. (Планирование задач, составление отчета о проделанной работе, встречи 1 на 1, собеседования.)
+
 ## Тестирование UI
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 :heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.</br></br>
