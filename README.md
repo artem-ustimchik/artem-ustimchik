@@ -87,24 +87,29 @@ Here are some ideas to get you started:
 - [x] Создание тестовой документации в Wiki.
 - [x] Работа с базами данных DB2.
 
-## Тестирование UI
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.</br></br>
-:triangular_flag_on_post: Что особенного:
+------
+### :link: <a target="_blank" href="http://elama.ru">Elama</a></br></br> Senior Full Stack QA Engineer (Декабрь 2018 - Декабрь 2021)
 
-- [x] Page Object
-- [x] Параметризованная сборка
-- [x] owner.config
-- [x] Интеграция с Jira
-- [x] Тестпланы авто- и ручного тестирования
-- [x] Задачи на дефекты
+![This is an image](/icons/Kotlin.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Jira.png)</br></br>
+:triangular_flag_on_post: Обязанности:
 
+- [x] Разработка автоматизированных тестов на языке Java для тестирование API.
+- [x] Разработка автоматизированных тестов на языке Java для тестирование UI. С использованием библиотеки Selenide и Selenoid.
+- [x] Обучение молодых сотрудников (проект JuniorLab).
+- [x] Внедрение автоматизации визуального тестирования. С помощью библиотеки VRT, организовал процесс автоматического тестирование верстки сайта. С помощью скриншотов.
+- [x] Оргиназивал и настроил AllureTestOps. Обучил сотридников процессу написания тест-кейсов. И настроил отчет по автоматическим тестам.
+- [x] Участвовал в отборе новых сотрудников на позиции QA. Проводил собеседования, писал отчета о встречах.
 
-## Тестирование REST API
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
-:heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на сайте https://openlibrary.org/.</br></br>
-:triangular_flag_on_post: Что особенного:
+------
+### :link: <a target="_blank" href="https://www.profee.com">ProfeeLab</a></br></br> Senior Full Stack QA Engineer (Декабрь 2021 - сейчас)
 
-- [x] Описание модели получаемых данных с помощью библиотеки Lombok
-- [x] Лямбда-подход для описания Allure Step
-- [x] Шаблоны форматирования логов запросов
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Postman.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/Jira.png)</br></br>
+:triangular_flag_on_post: Обязанности:
+
+- [x] Участие в планировании новой функциональности, обсуждении идей и реализации на архитектурном уровне.
+- [x] Релиз новых фич с помощью CI/CD teamcity.
+- [x] Тестирование бекенда с помощью Postman. Создание коллекций, моков, окружений.
+- [x] Настройка и поддержка тестовых окружений в актуальном и рабочем состоянии.
+- [x] Написание тестовой документации в Confluence.
+- [x] Создал и организовал автоматизацию тестов на языке Java для тестирование API. В день прогоняется до 10000 тестов. Среднее время прохождения 5 минут. После прохождения тестов, создается отчет.
+- [x] Участвовал в отборе новых сотрудников на позиции QA. Проводил собеседования, писал отчета о встречах.
