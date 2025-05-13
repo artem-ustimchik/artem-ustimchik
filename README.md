@@ -1,9 +1,9 @@
 ### Добро пожаловать и привет! 👋
 Меня зовут Артем. С 2011 года я занимаюсь обеспечением качества на разных проекта. А так же автоматизацие тестирование на Java.</br>
 
-⚡ +79513757855
-@ artem.ustimchik@gmail.com
-💬 <a target="_blank" href="https://t.me/ustim_qa">t.me/ustim_qa</a>
+- 💬 <a target="_blank" href="https://www.linkedin.com/in/artem-ustimchik-0bb081182/">Linkedin</a>
+- 💬 <a target="_blank" href="https://t.me/ustim_qa">t.me/ustim_qa</a>
+- @ artem.ustimchik@gmail.com
 
 <!--
 **artem-ustimchik/artem-ustimchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
