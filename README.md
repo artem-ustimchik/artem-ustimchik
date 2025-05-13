@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### :link: <a target="_blank" href="https://fisgroup.ru">FIS</a></br></br> Тестировщик банковского ПО (Декабрь 2011 - Июнь 2012)
   
 ![This is an image](/icons/TestRail.png)![This is an image](/icons/Jira.png)</br></br>
-  - :triangular_flag_on_post: Обязанности:
+:triangular_flag_on_post: Обязанности:
     - Тестирование нового функционала, от разработчиков. 
     - Разбор инцидентов от пользователей.
     - Работа с БКИ.
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### :link: <a target="_blank" href="https://mactelabs.com/">Macte</a></br></br> Тестировщик ПО (Июнь 2012 - Апрель 2016)
   
 ![This is an image](/icons/TestLink.png)![This is an image](/icons/Jira.png)![This is an image](/icons/Postman.png)</br></br>
-  - :triangular_flag_on_post: Обязанности:
+:triangular_flag_on_post: Обязанности:
     - Тестирование ПО(UI тестирование, регресс тестирование, функциональное тестирование).
     - Тестирование браузерных расширений, для разных бизнес решений.
     - Тестирование UI админ панели для отслеживания статистики установок и активных пользователей.
