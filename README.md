@@ -1,24 +1,10 @@
 ### Добро пожаловать и привет! 👋
-Меня зовут Артем. С 2011 года я занимаюсь обеспечением качества на разных проекта. А так же автоматизацие тестирование на Java.</br>
+Меня зовут Артем. </br>
+Senior QA Engineer/ AQA Java
 
-- 💬 <a target="_blank" href="https://www.linkedin.com/in/artem-ustimchik-0bb081182/">Linkedin</a>
-- 💬 <a target="_blank" href="https://t.me/ustim_qa">t.me/ustim_qa</a>
-- @ artem.ustimchik@gmail.com
-
-<!--
-**artem-ustimchik/artem-ustimchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 <a target="_blank" href="https://www.linkedin.com/in/artem-ustimchik-0bb081182/">Linkedin</a></br>
+💬 <a target="_blank" href="https://t.me/ustim_qa">t.me/ustim_qa</a></br>
+@ artem.ustimchik@gmail.com</br>
 
 ## Образование:
 <table width="100%" border='0'>
